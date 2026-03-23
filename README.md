@@ -42,7 +42,7 @@
 
 | Modèle | Corrélation validation | Notes |
 |--------|----------------------|-------|
-| **Ridge (α=1.0) — notre solution** | **0.1175** | ✅ Meilleur |
+| **Ridge (α=1.0) notre solution** | **0.1175** | ✅ Meilleur |
 | Lasso (α=0.01) | ~0.110 | OK |
 | ElasticNet | ~0.108 | OK |
 | Score gagnant | 0.131 | Référence |
